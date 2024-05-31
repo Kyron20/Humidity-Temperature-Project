@@ -1,4 +1,4 @@
-# Temperature and Humidity Tracker
+# Temperature and Humidity Tracker (C++)
 
 This project tracks temperature and humidity using an Arduino, DHT11 sensor, and the ThingSpeak and Twilio APIs. It periodically measures and uploads data to ThingSpeak, and sends SMS notifications via Twilio when the readings are outside of the specified ranges.
 
